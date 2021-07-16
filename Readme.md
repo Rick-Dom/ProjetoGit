@@ -19,6 +19,8 @@ git commit -m "primeiro commit" = adiciona o seu primeiro commit
 
 git branch -M "main" = basicamente falando, muda o nome da sua branch
 
-gite remote add origem https://github.com/nome do usuario/nome do projeto.git = faz a conexao do repositorio local com o repositorio do Github
+git remote add origem https://github.com/nome do usuario/nome do projeto.git = faz a conexao do repositorio local com o repositorio do Github
 
 git push -u origem main = envia os arquivos 
+
+git push origin main = quando a conexao ja estiver estabelecida 
