@@ -1,4 +1,5 @@
-Olá, esse projeto ensina você a usar o Git 
+Olá, esse projeto ensina você a usar o Git :)
+tudo aqui foi visto no video (https://www.youtube.com/watch?v=UBAX-13g8OM&list=LL)
 
 
 ## Codigos do terminal do Git
