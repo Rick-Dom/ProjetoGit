@@ -1,12 +1,15 @@
 Olá, esse projeto ensina você a usar o Git :)
-tudo aqui foi visto no video (https://www.youtube.com/watch?v=UBAX-13g8OM&list=LL)
+tudo aqui foi visto no video 
+(https://www.youtube.com/watch?v=UBAX-13g8OM&list=LL)
+da incrivel Rafaella Ballerini 
+* [link do github dela:](https://github.com/rafaballerini)
 
 
 ## Codigos do terminal do Git
 
 * git --version = verificar se a sua versão está correta
 
-* git mkdir = criar uma pasta
+* git mkdir = criar uma pasta 
 
 * git cd = abrir pasta (ou voce pode criar uma pasta e abrir o terminal do git lá mesmo com o botao direito do mouse)
 
