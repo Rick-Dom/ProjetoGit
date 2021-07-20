@@ -27,4 +27,4 @@ git push origin main = quando a conexao ja estiver estabelecida
 
 git checkout -b "nome da nova branch" = para criar uma branch nova (ramificação)
 
-git checkout main + para voltar para branch principal
+git checkout main = para voltar para branch principal
