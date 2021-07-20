@@ -1,7 +1,6 @@
 Olá, esse projeto ensina você a usar o Git :)
-tudo aqui foi visto no video 
+tudo aqui foi visto no video da incrivel Rafaella Ballerini
 * [COMO USAR GIT E GITHUB NA PRÁTICA!](https://www.youtube.com/watch?v=UBAX-13g8OM&list=LL)
-da incrivel Rafaella Ballerini 
 * [link do github dela:](https://github.com/rafaballerini)
 
 
