@@ -34,6 +34,8 @@ tudo aqui foi visto no video da incrivel Rafaella Ballerini
 
 * git merge nome da branch = para juntar as duas branch
 
+* $ rm -rf .git = apaga a existencia de uma conecção, assim podendo começar o projeto novamente 
+
 
 ## PUXAR UM ARQUIVO PARA SUA MAQUINA
 Você deve ir ate o repositório que voce deseja clonar e clicar o botão verde "code" e sem seguida copiar o link que aparece. Depois disso basta criar uma pasta, onde vai ficar o arquivo e abrir o terminal do Git e escrever o seguinte codigo: 
